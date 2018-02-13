@@ -9,3 +9,11 @@
 **Link(s) to work**
 1. [Use the Bootstrap grid to put elements side by side](https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side)
 
+### Day 2: 13th February, 2018
+
+**Today's Progress**: Started my project, created a basic team overview page with some information about the club. Completed only a couple freeCodeCamp challenges
+
+**Thoughts**: Only an hour as there is a match that I want to watch!
+
+**Link(s) to work**
+1. [Add Font Awesome Icons to our Buttons](https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-our-buttons)
