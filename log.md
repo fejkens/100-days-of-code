@@ -17,3 +17,13 @@
 
 **Link(s) to work**
 1. [Add Font Awesome Icons to our Buttons](https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-our-buttons)
+
+### Day 3: 14th February, 2018
+
+**Today's Progress**: Added some form fields to my website (Text input, radio buttons, checkboxes) and completed all freeCodeCamp challenges until I got to the Tribute page project.
+
+**Thoughts**: Can't wait to start my first freeCodeCamp project!
+
+**Link(s) to work**
+1. [Build a tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+2. [My project](https://github.com/fejkens/mything)
