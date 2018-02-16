@@ -27,3 +27,15 @@
 **Link(s) to work**
 1. [Build a tribute page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 2. [My project](https://github.com/fejkens/mything)
+
+### Day 4: 15th February, 2018
+
+**Today's Progress**: Attended my first freeCodeCamp meetup.
+
+**Thoughts**: Met some very nice people and got some useful tips to take home!
+
+### Day 5: 16th February, 2018
+
+**Today's Progress**: An off day, could not concentrate - just a normal Friday! Completed some challenges on beta.freecodecamp.com.
+
+**Thoughts**: I like that there are a lot of CSS exercices on the beta, although the editor does not look very appealing.
