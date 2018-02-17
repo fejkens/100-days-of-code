@@ -39,3 +39,11 @@
 **Today's Progress**: An off day, could not concentrate - just a normal Friday! Completed some challenges on beta.freecodecamp.com.
 
 **Thoughts**: I like that there are a lot of CSS exercices on the beta, although the editor does not look very appealing.
+
+### Day 6: 17th February, 2018
+
+**Today's Progress**: Very good day, completed the tribute page challenge on freeCodeCamp and started creating my portfolio! Started the free trial on Team Treehouse, seems a bit more fast-paced, but enjoying it so far!
+
+**Thoughts**: Felt like I knew what I was doing for the first time!
+
+1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
