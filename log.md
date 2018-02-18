@@ -47,3 +47,11 @@
 **Thoughts**: Felt like I knew what I was doing for the first time!
 
 1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
+
+### Day 7: 18th February, 2018
+
+**Today's Progress**: Had to play around with the navbar on my portfolio, added the social logos in the footer (Need to get them right tomorrow!) and watched some videos on Team Treehouse. Not very productive, but got a bit done. Need to finish my portfolio tomorrow and them work on making it responsive.
+
+**Thoughts**: Enjoying the portfolio challenge, although CSS is a bit of a pain.
+
+1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
