@@ -55,3 +55,11 @@
 **Thoughts**: Enjoying the portfolio challenge, although CSS is a bit of a pain.
 
 1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
+
+### Day 8: 19th February, 2018
+
+**Today's Progress**: Had to stop after an hour due to a small house emergency. Learned a bit about CSS Grid, will try to use it on my portfolio tomorrow!
+
+**Thoughts**: Loving CSS Grid so far
+
+1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
