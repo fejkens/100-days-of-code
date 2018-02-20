@@ -63,3 +63,11 @@
 **Thoughts**: Loving CSS Grid so far
 
 1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
+
+### Day 9: 20th February, 2018
+
+**Today's Progress**: Used everything that I know about CSS Grid on my portfolio and made it responsive. Removed the animations from the images on small size screens and continued with @perborgen's CSS Grid tutorial
+
+**Thoughts**: Having fun learning CSS Grid!
+
+1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
