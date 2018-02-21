@@ -71,3 +71,11 @@
 **Thoughts**: Having fun learning CSS Grid!
 
 1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
+
+### Day 10: 21st February, 2018
+
+**Today's Progress**: Finished my portfolio! Obviously, there aren't any projects on it so I have just put some placeholders, but I am quite proud of it. It's very simple but I have managed to make it almost fully responsive (Except for the menu!).
+
+**Thoughts**: JavaScript tomorrow, very excited!
+
+1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
