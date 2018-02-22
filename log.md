@@ -79,3 +79,9 @@
 **Thoughts**: JavaScript tomorrow, very excited!
 
 1. [My Portfolio](https://fejkens.github.io/Portfolio/index.html)
+
+### Day 11: 22nd February, 2018
+
+**Today's Progress**: Unproductive day, did not feel like doing anything. Completed some JavaScript challenges on freeCodeCamp
+
+**Thoughts**: Hoping for a better day tomorrow.
