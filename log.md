@@ -85,3 +85,9 @@
 **Today's Progress**: Unproductive day, did not feel like doing anything. Completed some JavaScript challenges on freeCodeCamp
 
 **Thoughts**: Hoping for a better day tomorrow.
+
+### Day 12: 23rd February, 2018
+
+**Today's Progress**: Come more JavaScript challenges on freeCodeCamp, I am now able to write simple functions!
+
+**Thoughts**: Going to crack on and play with if/else/switch statements tomorrow!
